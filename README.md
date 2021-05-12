@@ -34,8 +34,8 @@ open index.html
 You can visit to [`website`](https://alperenorhan.github.io/car-game/) of this game to play it!
 
 ## Controls :anger: 
-Up Arrow : Throttle
-Left Arrow : Rotate car to left
+Up Arrow : Throttle <br>
+Left Arrow : Rotate car to left <br>
 Right Arrow : Rotate car to right
 
 
@@ -68,6 +68,6 @@ open index.html
 Oyunu oynamak için [`buraya`](https://alperenorhan.github.io/car-game/) tıklayın!
 
 ## Kontroller :anger: 
-Yukarı Ok : Gaz
-Sol Ok : Aracı sola döndürür
+Yukarı Ok : Gaz <br>
+Sol Ok : Aracı sola döndürür <br>
 Sağ Ok : Aracı sağa döndürür
