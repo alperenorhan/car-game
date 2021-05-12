@@ -38,6 +38,9 @@ Up Arrow : Throttle <br>
 Left Arrow : Rotate car to left <br>
 Right Arrow : Rotate car to right
 
+## Contact Me! :anger:
+You can [click here](https://linktr.ee/alperenorhan.dev) to see all my social links. You can contact me anytime.
+
 
 # TR
 
@@ -71,3 +74,6 @@ Oyunu oynamak için [`buraya`](https://alperenorhan.github.io/car-game/) tıklay
 Yukarı Ok : Gaz <br>
 Sol Ok : Aracı sola döndürür <br>
 Sağ Ok : Aracı sağa döndürür
+
+## Bana ulaşın! :anger:
+Tüm sosyal medya adreslerime [buradan](https://linktr.ee/alperenorhan.dev) ulaşabilirsiniz. Benimle her zaman iletişime geçebilirsiniz.
